@@ -66,8 +66,8 @@ group :development, :test do
   gem "factory_bot_rails"
 end
 
-gem 'popper_js', '~> 1.11.1'
-gem 'bootstrap', '4.0.0.alpha6'
+gem 'popper_js', '~> 1.14.5'
+gem 'bootstrap', '~> 4.3.1'
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'devise'
